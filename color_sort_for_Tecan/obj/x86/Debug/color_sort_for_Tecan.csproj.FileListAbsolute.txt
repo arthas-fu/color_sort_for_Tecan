@@ -1,0 +1,11 @@
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\bin\Debug\color_sort_for_Tecan.exe
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\bin\Debug\color_sort_for_Tecan.pdb
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\MainWindow.baml
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\MainWindow.g.cs
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\App.g.cs
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan_MarkupCompile.cache
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan.g.resources
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan.Properties.Resources.resources
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan.csproj.GenerateResource.Cache
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan.exe
+Y:\Projects\GitHub\color_sort_for_Tecan\color_sort_for_Tecan\obj\x86\Debug\color_sort_for_Tecan.pdb

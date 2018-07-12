@@ -1,0 +1,7 @@
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\bin\Debug\TestProject1.dll
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\bin\Debug\TestProject1.pdb
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\bin\Debug\color_sort_for_Tecan.exe
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\bin\Debug\color_sort_for_Tecan.pdb
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\obj\Debug\TestProject1.dll
+Y:\Projects\GitHub\color_sort_for_Tecan\TestProject1\obj\Debug\TestProject1.pdb
