@@ -66,11 +66,11 @@ namespace color_sort_for_Tecan
             }
             for (Int32 i = 0; i < this.hue_array.Length; ++i)
             {
-                this.hue_array[i] = this.calculate_hue(color_array[i * 4], color_array[i * 4 + 1], color_array[i * 4 + 2]);
+                this.hue_array[i] = ColorGridData.calculate_hue(color_array[i * 4], color_array[i * 4 + 1], color_array[i * 4 + 2]);
             }
         }
 
-        public float calculate_hue(Byte b, Byte g, Byte r)
+        public static float calculate_hue(Byte b, Byte g, Byte r)
         {
             Byte M = Math.Max(r, g);
             Byte m = Math.Min(r, g);
