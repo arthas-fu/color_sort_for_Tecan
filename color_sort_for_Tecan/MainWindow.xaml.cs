@@ -13,9 +13,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Security.Cryptography;
 using System.IO;
-using color_sort_for_Tecan;
 
-namespace color_sorting
+namespace color_sort_for_Tecan
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
@@ -44,7 +43,7 @@ namespace color_sorting
 
         private void button_Color_Sorting_Click(object sender, RoutedEventArgs e)
         {
-            this.cgd.color_sort_by_hue(ColorGridData.color_align.buttom);
+            this.cgd.color_sort_by_hue(ColorGridData.color_align.left, 360);
             this.wb.Lock();
             this.wb.WritePixels(new Int32Rect(0, 0, (Int32)this.image.Width, (Int32)this.image.Height), this.cgd.sorted_data, this.wb.BackBufferStride, 0);
             this.wb.Unlock();
